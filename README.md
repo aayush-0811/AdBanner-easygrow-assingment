@@ -1,5 +1,7 @@
 This project implements an advertisement banner using Next.js with TypeScript. The banner is designed to display a consistent width and height across all ads on the home page [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+you can check the live server at: https://ad-banner-easygrow-assingment.vercel.app 
+
 ## Getting Started
 
 First, run the development server:
