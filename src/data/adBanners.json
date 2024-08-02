@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "title": "Boost Your Leads",
+        "description": "Harness AI for Effective Campaigns",
+        "cta": "Learn More",
+        "image": "/images/banner1.png",
+        "background": "dark"
+    },
+    {
+        "id": 2,
+        "title": "Boost Your Leads",
+        "description": "Harness AI for Effective Campaigns",
+        "cta": "Learn More",
+        "image": "/images/banner2.png",
+        "background": "light"
+    },
+    {
+        "id": 3,
+        "title": "Boost Your Leads",
+        "description": "Harness AI for Effective Campaigns",
+        "cta": "Learn More",
+        "image": "/images/template4.jpeg",
+        "background": "light"
+    },
+    {
+        "id": 4,
+        "title": "Boost Your Leads",
+        "description": "Harness AI for Effective Campaigns",
+        "cta": "Learn More",
+        "image": "/images/template5jpeg.jpeg",
+        "background": "light"
+    },
+    {
+        "id": 5,
+        "title": "Boost Your Leads",
+        "description": "Harness AI for Effective Campaigns",
+        "cta": "Learn More",
+        "image": "/images/template6.jpeg",
+        "background": "light"
+    },
+    {
+        "id": 6,
+        "title": "Boost Your Leads",
+        "description": "Harness AI for Effective Campaigns",
+        "cta": "Learn More",
+        "image": "/images/template7.jpg",
+        "background": "dark"
+    },
+    {
+        "id": 6,
+        "title": "Boost Your Leads",
+        "description": "Harness AI for Effective Campaigns",
+        "cta": "Learn More",
+        "image": "/images/template8.jpg",
+        "background": "dark"
+    }
+]
